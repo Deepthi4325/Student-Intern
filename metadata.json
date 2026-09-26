@@ -1,0 +1,6 @@
+{
+  "name": "Smart Intern — Adaptive Learning Platform",
+  "description": "AI-driven adaptive learning platform for students preparing for tech careers with multi-format content, personalized study planner, and opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
